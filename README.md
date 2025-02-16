@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a web developer.
 
 ## 🔗 Live Demo
-[Click here to view the live website](https://naveenkumar705.github.io/PortfolioPage/)) 
+[Click here to view the live website](https://naveenkumar705.github.io/PortfolioPage/)
 
 ## 🛠️ Technologies Used
 - **HTML** – Structure of the website
